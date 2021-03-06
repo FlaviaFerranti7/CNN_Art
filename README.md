@@ -2,7 +2,7 @@
 
 ## Description
 In this repository it's possible to find some CNN realized for painter recognition.
-<img src = "https://raw.githubusercontent.com/FlaviaFerranti7/CNN-Art/master/preview1.png" width="100%" height="100%">
+<img src = "https://github.com/FlaviaFerranti7/CNN_Art/blob/master/example_dataset.png" width="100%" height="100%">
 There a CNN from scratch and some created with the transfer learning technique.
 The goal was to study how data augmentation techniques can impact over the networks accuracy.
 A more detailed description of the work can be found [here](Vision_project.pdf)
