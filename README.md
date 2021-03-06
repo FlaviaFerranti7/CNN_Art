@@ -1,7 +1,7 @@
 # CNN_Art
 
 ## Description
-In this repository it's possible to find some CNN realized for painter recognition.
+In this repository it's possible to find some CNN realized for painter recognition, for the Sapienza's course of Vision and Perception
 
 <img src = "https://github.com/FlaviaFerranti7/CNN_Art/blob/master/example_dataset.png" width="80%" height="80%">
 
